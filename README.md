@@ -1,0 +1,1 @@
+This project is a data-driven HR Analytics Dashboard built to provide insights into workforce demographics, attrition patterns, and employee performance metrics. Using Excel as the data processing tool, the dashboard visually presents key HR metrics that help stakeholders make informed decisions.
